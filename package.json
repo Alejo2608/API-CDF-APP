@@ -1,14 +1,14 @@
 {
-  "name": "servidor-de-eventos-uvm",
+  "name": "servidor-de-cdf",
   "version": "1.0.0",
-  "description": "Aplicacion de eventos para la Universidad Valle del Momboy",
+  "description": "Back end de la aplicacion de cdf",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "keywords": ["NodeJS", "MongoDB", "Expressjs", "Cloudinary", "Swagger"],
-  "author": "Alexander Avendaño",
+  "author": "Alejandro Briceño",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.21"
